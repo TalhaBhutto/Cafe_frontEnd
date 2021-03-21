@@ -77,8 +77,8 @@ img {
 	float: right;
 	list-style: none outside none;
 	margin: 0 auto;
-	padding: 17px 0 0;
-	text-align: center;
+	padding: 1px 0 0;
+	text-align: right;
 	width: 513px;
 }
 #header div ul li {
